@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-    alert("te amo familia! 🚀");
+    alert("te amo jotinha! 🚀");
 }
